@@ -1,38 +1,30 @@
 # 📂 File Organizer Tool (Python)
 
-A simple Python GUI application that automatically organizes files in a Downloads folder into categorized folders.
+A Python automation tool that automatically organizes files in your Downloads folder into categorized folders.
 
 ---
 
 ## 🚀 Features
-- Organizes files by type (Images, Documents, Videos, etc.)
-- GUI interface (button-based)
-- Safe file handling
-- Works on Android (Pydroid 3)
+- Automatically sorts files by type
+- Supports images, videos, documents, audio, and archives
+- Handles file organization using Python OS and shutil modules
+- Simple console-based automation tool
 
 ---
 
-## 📸 Preview
-Here is what the app looks like:
-
-![App Screenshot](app.png)
-
----
-
-## 🧠 Technologies Used
+## 🛠 Technologies Used
 - Python
-- Tkinter
-- OS module
-- Shutil
+- os module
+- shutil module
 
 ---
 
-## ▶️ How to run
+## ▶️ How to Run
 1. Install Python
-2. Run `main.py`
-3. Click "Start Organizing"
+2. Open `main.py`
+3. Run the script
 
 ---
 
-## 📌 Author
-Built as a Python automation project for learning and portfolio use.
+## 📌 Purpose
+This project was built to practice Python automation and file handling.
